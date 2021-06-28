@@ -6,8 +6,8 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: rgb(0,119,182);
-    background: linear-gradient(62deg, rgba(0,119,182,1) 0%, rgba(72,202,228,1) 100%);
+    background: rgb(255,71,126);
+    background: linear-gradient(62deg, rgba(255,71,126,1) 0%, rgba(250,224,228,1) 100%);
 }
 
 /* hamberger menu container */
@@ -84,7 +84,7 @@ body {
 }
 
 .menu a:hover {
-    color: #34d3f3;
+    color: #fae0e4;
     font-weight: 700;
 }
 

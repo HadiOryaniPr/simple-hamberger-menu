@@ -43,7 +43,7 @@ body {
     -webkit-backdrop-filter: blur( 20.0px );
     border-radius: 10px;
     /* Hide list*/
-    transform: translate(-800px);
+    transform: translate(-900px);
     transition: 0.5s;
 }
 
